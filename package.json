@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "elm-spa": "^6.0.4"
+  },
+  "scripts": {
+    "start": "elm-spa server",
+    "build": "elm-spa build"
+  }
+}
